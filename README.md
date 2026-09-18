@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+%26+Web+Developer;Flutter+%7C+Laravel+%7C+React+Js;Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Laravel+%7C+Next+Js;Building+Real-World+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 ### Hey, I'm Ahmad
 
-I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, **Laravel** and **React Js**. I build practical tools that solve real problems.
+I'm a **web developer** from Indonesia, specializing in **Laravel** and **Next Js**. I build practical tools that solve real problems.
 
-**Currently working on:** Cross-platform mobile apps with Flutter, backend systems with Laravel, and React Js as frontend  
+**Currently working on:** Backend systems with Laravel, and Next Js as frontend  
 **Reach me:** [masahhmad001@gmail.com](mailto:masahhmad001@gmail.com) | [masahhmad.com](https://masahhmad.com)
 
 ---
@@ -16,14 +16,12 @@ I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, 
 ### Tech Stack
 
 **Languages:**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks and Libraries:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
