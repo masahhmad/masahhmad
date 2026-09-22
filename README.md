@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Laravel+%7C+Next+Js;Building+Real-World+Solutions" alt="Typing SVG" />
-</div>
-
----
-
 ### Hey, I'm Ahmad
 
 I'm a **web developer** from Indonesia, specializing in **Laravel** and **Next Js**. I build practical tools that solve real problems.
