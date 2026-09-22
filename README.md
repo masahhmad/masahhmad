@@ -35,12 +35,6 @@ I'm a **web developer** from Indonesia, specializing in **Laravel** and **Next J
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=masahhmad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 <!-- <div align="center">
   <i>⭐ Feel free to star any repos you find interesting!</i>
 </div> -->
